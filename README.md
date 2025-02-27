@@ -1,0 +1,1 @@
+This is a simple file-sharing site built with Python using the Flask framework and an SQL database. It includes user registration, authorization, and a personal file storage system for saving and sharing files.
